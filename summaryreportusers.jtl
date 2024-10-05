@@ -1,0 +1,521 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1728103882498,972,UserReg_T01_PetstoreHomepage,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-1,,true,,6124,543,1,1,null,0,1,767
+1728103882498,972,/actions/Catalog.action-456,200,,UserReg 1-1,text,true,,5664,543,1,1,https://petstore.octoperf.com/actions/Catalog.action,972,0,767
+1728103883471,0,Debug Sampler,200,OK,UserReg 1-1,text,true,,460,0,1,1,null,0,0,0
+1728103883503,788,UserReg_T01_PetstoreHomepage,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-2,,true,,6124,543,2,2,null,0,2,580
+1728103883504,788,/actions/Catalog.action-456,200,,UserReg 1-2,text,true,,5664,543,2,2,https://petstore.octoperf.com/actions/Catalog.action,787,0,580
+1728103884292,0,Debug Sampler,200,OK,UserReg 1-2,text,true,,460,0,2,2,null,0,0,0
+1728103884498,816,UserReg_T01_PetstoreHomepage,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-3,,true,,6124,543,3,3,null,0,3,610
+1728103884499,816,/actions/Catalog.action-456,200,,UserReg 1-3,text,true,,5664,543,3,3,https://petstore.octoperf.com/actions/Catalog.action,816,0,610
+1728103885316,0,Debug Sampler,200,OK,UserReg 1-3,text,true,,460,0,3,3,null,0,0,0
+1728103885499,839,UserReg_T01_PetstoreHomepage,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-4,,true,,6124,543,4,4,null,0,2,633
+1728103885500,839,/actions/Catalog.action-456,200,,UserReg 1-4,text,true,,5664,543,4,4,https://petstore.octoperf.com/actions/Catalog.action,839,0,633
+1728103886340,0,Debug Sampler,200,OK,UserReg 1-4,text,true,,460,0,4,4,null,0,0,0
+1728103886708,244,UserReg_T02_ClkSignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-2,,true,,4095,722,4,4,null,0,1,0
+1728103886709,244,/actions/Account.action-458,200,,UserReg 1-2,text,true,,4095,722,4,4,https://petstore.octoperf.com/actions/Account.action;jsessionid=4FD7BC22239FC1C85A80FCFD65EA8749?signonForm=,243,0,0
+1728103886993,165,UserReg_T02_ClkSignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-1,,true,,4097,722,4,4,null,0,1,0
+1728103886993,165,/actions/Account.action-458,200,,UserReg 1-1,text,true,,4097,722,4,4,https://petstore.octoperf.com/actions/Account.action;jsessionid=2415B15003F51E62A75A4C0A8AA7C2DF?signonForm=,165,0,0
+1728103889059,150,UserReg_T02_ClkSignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-3,,true,,4095,722,4,4,null,0,1,0
+1728103889060,150,/actions/Account.action-458,200,,UserReg 1-3,text,true,,4095,722,4,4,https://petstore.octoperf.com/actions/Account.action;jsessionid=7F357DFBE9728AC1F0242B82F4FB2104?signonForm=,150,0,0
+1728103889483,147,UserReg_T02_ClkSignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-4,,true,,4095,722,4,4,null,0,1,0
+1728103889484,147,/actions/Account.action-458,200,,UserReg 1-4,text,true,,4095,722,4,4,https://petstore.octoperf.com/actions/Account.action;jsessionid=E90979DEFB52E0F13BEC0CA7FA00EB22?signonForm=,147,0,0
+1728103891286,171,UserReg_T03_RegisterNow,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-1,,true,,6868,694,4,4,null,0,1,0
+1728103891286,171,/actions/Account.action-460,200,,UserReg 1-1,text,true,,6060,694,4,4,https://petstore.octoperf.com/actions/Account.action?newAccountForm=,171,0,0
+1728103891458,0,Debug Sampler,200,OK,UserReg 1-1,text,true,,808,0,4,4,null,0,0,0
+1728103891954,220,UserReg_T03_RegisterNow,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-3,,true,,6867,694,4,4,null,0,1,0
+1728103891954,220,/actions/Account.action-460,200,,UserReg 1-3,text,true,,6060,694,4,4,https://petstore.octoperf.com/actions/Account.action?newAccountForm=,220,0,0
+1728103892175,0,Debug Sampler,200,OK,UserReg 1-3,text,true,,807,0,4,4,null,0,0,0
+1728103892846,156,UserReg_T03_RegisterNow,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-2,,true,,6872,694,4,4,null,0,0,0
+1728103892846,156,/actions/Account.action-460,200,,UserReg 1-2,text,true,,6060,694,4,4,https://petstore.octoperf.com/actions/Account.action?newAccountForm=,155,0,0
+1728103893002,0,Debug Sampler,200,OK,UserReg 1-2,text,true,,812,0,4,4,null,0,0,0
+1728103893620,197,UserReg_T03_RegisterNow,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-4,,true,,6865,694,4,4,null,0,1,0
+1728103893620,197,/actions/Account.action-460,200,,UserReg 1-4,text,true,,6058,694,4,4,https://petstore.octoperf.com/actions/Account.action?newAccountForm=,196,0,0
+1728103893818,0,Debug Sampler,200,OK,UserReg 1-4,text,true,,807,0,4,4,null,0,0,0
+1728103894634,557,UserReg_T04_EnterAndSaveAccInfo,200,"Number of samples in transaction : 3, number of failing samples : 0",UserReg 1-3,,true,,10983,3045,4,4,null,0,1,0
+1728103894634,409,/actions/Account.action-461,200,,UserReg 1-3,text,true,,5203,2363,4,4,https://petstore.octoperf.com/actions/Catalog.action,201,0,0
+1728103894634,201,/actions/Account.action-461-0,302,,UserReg 1-3,,true,,230,1593,4,4,https://petstore.octoperf.com/actions/Account.action,201,0,0
+1728103894836,207,/actions/Account.action-461-1,200,,UserReg 1-3,text,true,,4973,770,4,4,https://petstore.octoperf.com/actions/Catalog.action,206,0,0
+1728103895044,148,/actions/Catalog.action-462,200,,UserReg 1-3,text,true,,4973,682,4,4,https://petstore.octoperf.com/actions/Catalog.action,147,0,0
+1728103895192,0,Debug Sampler,200,OK,UserReg 1-3,text,true,,807,0,4,4,null,0,0,0
+1728103895306,546,UserReg_T04_EnterAndSaveAccInfo,200,"Number of samples in transaction : 3, number of failing samples : 0",UserReg 1-1,,true,,10984,3046,4,4,null,0,3,0
+1728103895307,396,/actions/Account.action-461,200,,UserReg 1-1,text,true,,5203,2364,4,4,https://petstore.octoperf.com/actions/Catalog.action,246,0,0
+1728103895307,246,/actions/Account.action-461-0,302,,UserReg 1-1,,true,,230,1594,4,4,https://petstore.octoperf.com/actions/Account.action,246,0,0
+1728103895553,150,/actions/Account.action-461-1,200,,UserReg 1-1,text,true,,4973,770,4,4,https://petstore.octoperf.com/actions/Catalog.action,150,0,0
+1728103895704,150,/actions/Catalog.action-462,200,,UserReg 1-1,text,true,,4973,682,4,4,https://petstore.octoperf.com/actions/Catalog.action,149,0,0
+1728103895854,0,Debug Sampler,200,OK,UserReg 1-1,text,true,,808,0,4,4,null,0,0,0
+1728103895898,472,UserReg_T04_EnterAndSaveAccInfo,200,"Number of samples in transaction : 3, number of failing samples : 0",UserReg 1-2,,true,,10988,3050,4,4,null,0,3,0
+1728103895899,301,/actions/Account.action-461,200,,UserReg 1-2,text,true,,5203,2368,4,4,https://petstore.octoperf.com/actions/Catalog.action,150,0,0
+1728103895899,150,/actions/Account.action-461-0,302,,UserReg 1-2,,true,,230,1598,4,4,https://petstore.octoperf.com/actions/Account.action,150,0,0
+1728103896050,150,/actions/Account.action-461-1,200,,UserReg 1-2,text,true,,4973,770,4,4,https://petstore.octoperf.com/actions/Catalog.action,150,0,0
+1728103896202,171,/actions/Catalog.action-462,200,,UserReg 1-2,text,true,,4973,682,4,4,https://petstore.octoperf.com/actions/Catalog.action,170,0,0
+1728103896373,0,Debug Sampler,200,OK,UserReg 1-2,text,true,,812,0,4,4,null,0,0,0
+1728103895948,434,UserReg_T04_EnterAndSaveAccInfo,200,"Number of samples in transaction : 3, number of failing samples : 0",UserReg 1-4,,true,,10982,3045,4,4,null,0,3,0
+1728103895949,291,/actions/Account.action-461,200,,UserReg 1-4,text,true,,5203,2363,4,4,https://petstore.octoperf.com/actions/Catalog.action,146,0,0
+1728103895949,146,/actions/Account.action-461-0,302,,UserReg 1-4,,true,,230,1593,4,4,https://petstore.octoperf.com/actions/Account.action,146,0,0
+1728103896096,144,/actions/Account.action-461-1,200,,UserReg 1-4,text,true,,4973,770,4,4,https://petstore.octoperf.com/actions/Catalog.action,144,0,0
+1728103896241,143,/actions/Catalog.action-462,200,,UserReg 1-4,text,true,,4973,682,4,4,https://petstore.octoperf.com/actions/Catalog.action,143,0,0
+1728103896385,0,Debug Sampler,200,OK,UserReg 1-4,text,true,,806,0,4,4,null,0,0,0
+1728103906084,160,UserReg_T05_SignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-4,,true,,4119,678,4,4,null,0,1,0
+1728103906085,160,/actions/Account.action-464,200,,UserReg 1-4,text,true,,4119,678,4,4,https://petstore.octoperf.com/actions/Account.action?signonForm=,160,0,0
+1728103908224,232,UserReg_T05_SignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-3,,true,,4119,678,4,4,null,0,1,0
+1728103908225,232,/actions/Account.action-464,200,,UserReg 1-3,text,true,,4119,678,4,4,https://petstore.octoperf.com/actions/Account.action?signonForm=,232,0,0
+1728103909306,172,UserReg_T05_SignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-2,,true,,4117,678,4,4,null,0,0,0
+1728103909306,172,/actions/Account.action-464,200,,UserReg 1-2,text,true,,4117,678,4,4,https://petstore.octoperf.com/actions/Account.action?signonForm=,172,0,0
+1728103909669,632,UserReg_T06_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-4,,true,,10650,2481,4,4,null,0,1,0
+1728103909669,429,/actions/Account.action-465,200,,UserReg 1-4,text,true,,5440,1803,4,4,https://petstore.octoperf.com/actions/Catalog.action,223,0,0
+1728103909669,223,/actions/Account.action-465-0,302,,UserReg 1-4,,true,,230,1037,4,4,https://petstore.octoperf.com/actions/Account.action,223,0,0
+1728103909892,206,/actions/Account.action-465-1,200,,UserReg 1-4,text,true,,5210,766,4,4,https://petstore.octoperf.com/actions/Catalog.action,205,0,0
+1728103910099,203,/actions/Catalog.action-466,200,,UserReg 1-4,text,true,,5210,678,4,4,https://petstore.octoperf.com/actions/Catalog.action,202,0,0
+1728103911911,232,UserReg_T05_SignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-1,,true,,4115,678,4,4,null,0,0,0
+1728103911911,232,/actions/Account.action-464,200,,UserReg 1-1,text,true,,4115,678,4,4,https://petstore.octoperf.com/actions/Account.action?signonForm=,232,0,0
+1728103912193,556,UserReg_T06_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-2,,true,,10658,2481,4,4,null,0,0,0
+1728103912193,406,/actions/Account.action-465,200,,UserReg 1-2,text,true,,5444,1803,4,4,https://petstore.octoperf.com/actions/Catalog.action,256,0,0
+1728103912193,256,/actions/Account.action-465-0,302,,UserReg 1-2,,true,,230,1037,4,4,https://petstore.octoperf.com/actions/Account.action,256,0,0
+1728103912449,150,/actions/Account.action-465-1,200,,UserReg 1-2,text,true,,5214,766,4,4,https://petstore.octoperf.com/actions/Catalog.action,150,0,0
+1728103912599,150,/actions/Catalog.action-466,200,,UserReg 1-2,text,true,,5214,678,4,4,https://petstore.octoperf.com/actions/Catalog.action,150,0,0
+1728103912572,493,UserReg_T06_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-3,,true,,10650,2481,4,4,null,0,1,0
+1728103912572,302,/actions/Account.action-465,200,,UserReg 1-3,text,true,,5440,1803,4,4,https://petstore.octoperf.com/actions/Catalog.action,149,0,0
+1728103912572,149,/actions/Account.action-465-0,302,,UserReg 1-3,,true,,230,1037,4,4,https://petstore.octoperf.com/actions/Account.action,149,0,0
+1728103912722,152,/actions/Account.action-465-1,200,,UserReg 1-3,text,true,,5210,766,4,4,https://petstore.octoperf.com/actions/Catalog.action,152,0,0
+1728103912875,191,/actions/Catalog.action-466,200,,UserReg 1-3,text,true,,5210,678,4,4,https://petstore.octoperf.com/actions/Catalog.action,190,0,0
+1728103912691,519,UserReg_T07_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-4,,true,,10251,2007,4,4,null,0,1,0
+1728103912692,374,/actions/Account.action-468,200,,UserReg 1-4,text,true,,5278,1341,4,4,https://petstore.octoperf.com/actions/Catalog.action,148,0,0
+1728103912692,148,/actions/Account.action-468-0,302,,UserReg 1-4,,true,,230,675,4,4,https://petstore.octoperf.com/actions/Account.action?signoff=,148,0,0
+1728103912840,226,/actions/Account.action-468-1,200,,UserReg 1-4,text,true,,5048,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,225,0,0
+1728103913066,145,/actions/Catalog.action-469,200,,UserReg 1-4,text,true,,4973,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,145,0,0
+1728103916393,612,UserReg_T07_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-2,,true,,10251,2007,4,4,null,0,3,0
+1728103916394,460,/actions/Account.action-468,200,,UserReg 1-2,text,true,,5278,1341,4,4,https://petstore.octoperf.com/actions/Catalog.action,253,0,0
+1728103916394,253,/actions/Account.action-468-0,302,,UserReg 1-2,,true,,230,675,4,4,https://petstore.octoperf.com/actions/Account.action?signoff=,253,0,0
+1728103916647,207,/actions/Account.action-468-1,200,,UserReg 1-2,text,true,,5048,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,207,0,0
+1728103916855,152,/actions/Catalog.action-469,200,,UserReg 1-2,text,true,,4973,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,152,0,0
+1728103916948,150,UserReg_T01_PetstoreHomepage,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-4,,true,,6471,543,4,4,null,0,2,0
+1728103916949,150,/actions/Catalog.action-456,200,,UserReg 1-4,text,true,,5664,543,4,4,https://petstore.octoperf.com/actions/Catalog.action,149,0,0
+1728103917100,0,Debug Sampler,200,OK,UserReg 1-4,text,true,,807,0,4,4,null,0,0,0
+1728103917410,670,UserReg_T07_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-3,,true,,10251,2007,4,4,null,0,1,0
+1728103917411,466,/actions/Account.action-468,200,,UserReg 1-3,text,true,,5278,1341,4,4,https://petstore.octoperf.com/actions/Catalog.action,261,0,0
+1728103917411,261,/actions/Account.action-468-0,302,,UserReg 1-3,,true,,230,675,4,4,https://petstore.octoperf.com/actions/Account.action?signoff=,261,0,0
+1728103917673,204,/actions/Account.action-468-1,200,,UserReg 1-3,text,true,,5048,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,204,0,0
+1728103917877,204,/actions/Catalog.action-469,200,,UserReg 1-3,text,true,,4973,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,204,0,0
+1728103918147,650,UserReg_T06_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-1,,true,,10650,2481,4,4,null,0,1,0
+1728103918148,444,/actions/Account.action-465,200,,UserReg 1-1,text,true,,5440,1803,4,4,https://petstore.octoperf.com/actions/Catalog.action,240,0,0
+1728103918148,241,/actions/Account.action-465-0,302,,UserReg 1-1,,true,,230,1037,4,4,https://petstore.octoperf.com/actions/Account.action,240,0,0
+1728103918389,203,/actions/Account.action-465-1,200,,UserReg 1-1,text,true,,5210,766,4,4,https://petstore.octoperf.com/actions/Catalog.action,203,0,0
+1728103918592,206,/actions/Catalog.action-466,200,,UserReg 1-1,text,true,,5210,678,4,4,https://petstore.octoperf.com/actions/Catalog.action,206,0,0
+1728103920066,149,UserReg_T02_ClkSignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-4,,true,,4097,722,4,4,null,0,1,0
+1728103920066,149,/actions/Account.action-458,200,,UserReg 1-4,text,true,,4097,722,4,4,https://petstore.octoperf.com/actions/Account.action;jsessionid=3CB6B1CCBF095514F5C1D97434C114B1?signonForm=,149,0,0
+1728103920180,157,UserReg_T01_PetstoreHomepage,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-3,,true,,6471,543,4,4,null,0,1,0
+1728103920180,157,/actions/Catalog.action-456,200,,UserReg 1-3,text,true,,5664,543,4,4,https://petstore.octoperf.com/actions/Catalog.action,156,0,0
+1728103920338,0,Debug Sampler,200,OK,UserReg 1-3,text,true,,807,0,4,4,null,0,0,0
+1728103921832,169,UserReg_T01_PetstoreHomepage,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-2,,true,,6476,543,4,4,null,0,1,0
+1728103921833,169,/actions/Catalog.action-456,200,,UserReg 1-2,text,true,,5664,543,4,4,https://petstore.octoperf.com/actions/Catalog.action,168,0,0
+1728103922002,0,Debug Sampler,200,OK,UserReg 1-2,text,true,,812,0,4,4,null,0,0,0
+1728103922978,584,UserReg_T07_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-1,,true,,10251,2007,4,4,null,0,2,0
+1728103922979,427,/actions/Account.action-468,200,,UserReg 1-1,text,true,,5278,1341,4,4,https://petstore.octoperf.com/actions/Catalog.action,222,0,0
+1728103922979,222,/actions/Account.action-468-0,302,,UserReg 1-1,,true,,230,675,4,4,https://petstore.octoperf.com/actions/Account.action?signoff=,222,0,0
+1728103923202,204,/actions/Account.action-468-1,200,,UserReg 1-1,text,true,,5048,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,204,0,0
+1728103923407,157,/actions/Catalog.action-469,200,,UserReg 1-1,text,true,,4973,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,156,0,0
+1728103923929,194,UserReg_T03_RegisterNow,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-4,,true,,6861,694,4,4,null,0,2,0
+1728103923930,194,/actions/Account.action-460,200,,UserReg 1-4,text,true,,6054,694,4,4,https://petstore.octoperf.com/actions/Account.action?newAccountForm=,194,0,0
+1728103924125,0,Debug Sampler,200,OK,UserReg 1-4,text,true,,807,0,4,4,null,0,0,0
+1728103924409,183,UserReg_T02_ClkSignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-3,,true,,4095,722,4,4,null,0,0,0
+1728103924409,183,/actions/Account.action-458,200,,UserReg 1-3,text,true,,4095,722,4,4,https://petstore.octoperf.com/actions/Account.action;jsessionid=5A3D7814D528680ACAB02FB81667EF11?signonForm=,183,0,0
+1728103926620,267,UserReg_T02_ClkSignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-2,,true,,4095,722,4,4,null,0,1,0
+1728103926621,267,/actions/Account.action-458,200,,UserReg 1-2,text,true,,4095,722,4,4,https://petstore.octoperf.com/actions/Account.action;jsessionid=30CAD3531E7F85BA142D607F05E476F7?signonForm=,267,0,0
+1728103928230,194,UserReg_T01_PetstoreHomepage,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-1,,true,,6472,543,4,4,null,0,1,0
+1728103928230,194,/actions/Catalog.action-456,200,,UserReg 1-1,text,true,,5664,543,4,4,https://petstore.octoperf.com/actions/Catalog.action,194,0,0
+1728103928425,0,Debug Sampler,200,OK,UserReg 1-1,text,true,,808,0,4,4,null,0,0,0
+1728103928707,638,UserReg_T04_EnterAndSaveAccInfo,200,"Number of samples in transaction : 3, number of failing samples : 0",UserReg 1-4,,true,,10982,3045,4,4,null,0,3,0
+1728103928708,443,/actions/Account.action-461,200,,UserReg 1-4,text,true,,5203,2363,4,4,https://petstore.octoperf.com/actions/Catalog.action,228,0,0
+1728103928708,228,/actions/Account.action-461-0,302,,UserReg 1-4,,true,,230,1593,4,4,https://petstore.octoperf.com/actions/Account.action,228,0,0
+1728103928936,215,/actions/Account.action-461-1,200,,UserReg 1-4,text,true,,4973,770,4,4,https://petstore.octoperf.com/actions/Catalog.action,215,0,0
+1728103929152,195,/actions/Catalog.action-462,200,,UserReg 1-4,text,true,,4973,682,4,4,https://petstore.octoperf.com/actions/Catalog.action,195,0,0
+1728103929348,0,Debug Sampler,200,OK,UserReg 1-4,text,true,,806,0,4,4,null,0,0,0
+1728103929507,249,UserReg_T03_RegisterNow,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-3,,true,,6870,694,4,4,null,0,1,0
+1728103929508,249,/actions/Account.action-460,200,,UserReg 1-3,text,true,,6058,694,4,4,https://petstore.octoperf.com/actions/Account.action?newAccountForm=,248,0,0
+1728103929757,0,Debug Sampler,200,OK,UserReg 1-3,text,true,,812,0,4,4,null,0,0,0
+1728103932240,180,UserReg_T03_RegisterNow,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-2,,true,,6866,694,4,4,null,0,1,0
+1728103932240,180,/actions/Account.action-460,200,,UserReg 1-2,text,true,,6058,694,4,4,https://petstore.octoperf.com/actions/Account.action?newAccountForm=,180,0,0
+1728103932421,0,Debug Sampler,200,OK,UserReg 1-2,text,true,,808,0,4,4,null,0,0,0
+1728103934411,259,UserReg_T02_ClkSignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-1,,true,,4097,722,4,4,null,0,2,0
+1728103934412,259,/actions/Account.action-458,200,,UserReg 1-1,text,true,,4097,722,4,4,https://petstore.octoperf.com/actions/Account.action;jsessionid=5FB573A9E3A88C643918AA5C8E99D52D?signonForm=,259,0,0
+1728103934431,648,UserReg_T04_EnterAndSaveAccInfo,200,"Number of samples in transaction : 3, number of failing samples : 0",UserReg 1-3,,true,,10988,3050,4,4,null,0,2,0
+1728103934432,444,/actions/Account.action-461,200,,UserReg 1-3,text,true,,5203,2368,4,4,https://petstore.octoperf.com/actions/Catalog.action,243,0,0
+1728103934432,243,/actions/Account.action-461-0,302,,UserReg 1-3,,true,,230,1598,4,4,https://petstore.octoperf.com/actions/Account.action,243,0,0
+1728103934676,200,/actions/Account.action-461-1,200,,UserReg 1-3,text,true,,4973,770,4,4,https://petstore.octoperf.com/actions/Catalog.action,200,0,0
+1728103934876,204,/actions/Catalog.action-462,200,,UserReg 1-3,text,true,,4973,682,4,4,https://petstore.octoperf.com/actions/Catalog.action,204,0,0
+1728103935081,0,Debug Sampler,200,OK,UserReg 1-3,text,true,,812,0,4,4,null,0,0,0
+1728103936898,573,UserReg_T04_EnterAndSaveAccInfo,200,"Number of samples in transaction : 3, number of failing samples : 0",UserReg 1-2,,true,,10984,3046,4,4,null,0,2,0
+1728103936899,424,/actions/Account.action-461,200,,UserReg 1-2,text,true,,5203,2364,4,4,https://petstore.octoperf.com/actions/Catalog.action,228,0,0
+1728103936899,228,/actions/Account.action-461-0,302,,UserReg 1-2,,true,,230,1594,4,4,https://petstore.octoperf.com/actions/Account.action,228,0,0
+1728103937128,195,/actions/Account.action-461-1,200,,UserReg 1-2,text,true,,4973,770,4,4,https://petstore.octoperf.com/actions/Catalog.action,195,0,0
+1728103937323,149,/actions/Catalog.action-462,200,,UserReg 1-2,text,true,,4973,682,4,4,https://petstore.octoperf.com/actions/Catalog.action,149,0,0
+1728103937473,0,Debug Sampler,200,OK,UserReg 1-2,text,true,,808,0,4,4,null,0,0,0
+1728103937373,153,UserReg_T03_RegisterNow,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-1,,true,,6867,694,4,4,null,0,2,0
+1728103937374,153,/actions/Account.action-460,200,,UserReg 1-1,text,true,,6060,694,4,4,https://petstore.octoperf.com/actions/Account.action?newAccountForm=,149,0,0
+1728103937528,0,Debug Sampler,200,OK,UserReg 1-1,text,true,,807,0,4,4,null,0,0,0
+1728103939543,248,UserReg_T05_SignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-4,,true,,4119,678,4,4,null,0,0,0
+1728103939543,248,/actions/Account.action-464,200,,UserReg 1-4,text,true,,4119,678,4,4,https://petstore.octoperf.com/actions/Account.action?signonForm=,248,0,0
+1728103941347,593,UserReg_T04_EnterAndSaveAccInfo,200,"Number of samples in transaction : 3, number of failing samples : 0",UserReg 1-1,,true,,10983,3045,4,4,null,0,1,0
+1728103941347,333,/actions/Account.action-461,200,,UserReg 1-1,text,true,,5203,2363,4,4,https://petstore.octoperf.com/actions/Catalog.action,184,0,0
+1728103941347,184,/actions/Account.action-461-0,302,,UserReg 1-1,,true,,230,1593,4,4,https://petstore.octoperf.com/actions/Account.action,184,0,0
+1728103941532,148,/actions/Account.action-461-1,200,,UserReg 1-1,text,true,,4973,770,4,4,https://petstore.octoperf.com/actions/Catalog.action,148,0,0
+1728103941681,260,/actions/Catalog.action-462,200,,UserReg 1-1,text,true,,4973,682,4,4,https://petstore.octoperf.com/actions/Catalog.action,260,0,0
+1728103941941,0,Debug Sampler,200,OK,UserReg 1-1,text,true,,807,0,4,4,null,0,0,0
+1728103944874,649,UserReg_T06_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-4,,true,,10650,2481,4,4,null,0,1,0
+1728103944875,443,/actions/Account.action-465,200,,UserReg 1-4,text,true,,5440,1803,4,4,https://petstore.octoperf.com/actions/Catalog.action,248,0,0
+1728103944875,248,/actions/Account.action-465-0,302,,UserReg 1-4,,true,,230,1037,4,4,https://petstore.octoperf.com/actions/Account.action,248,0,0
+1728103945124,194,/actions/Account.action-465-1,200,,UserReg 1-4,text,true,,5210,766,4,4,https://petstore.octoperf.com/actions/Catalog.action,194,0,0
+1728103945318,206,/actions/Catalog.action-466,200,,UserReg 1-4,text,true,,5210,678,4,4,https://petstore.octoperf.com/actions/Catalog.action,206,0,0
+1728103946628,638,UserReg_T05_SignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-3,,true,,4119,678,4,4,null,0,1,432
+1728103946629,638,/actions/Account.action-464,200,,UserReg 1-3,text,true,,4119,678,4,4,https://petstore.octoperf.com/actions/Account.action?signonForm=,638,0,432
+1728103947907,997,UserReg_T07_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-4,,true,,10251,2007,4,4,null,0,1,381
+1728103947908,737,/actions/Account.action-468,200,,UserReg 1-4,text,true,,5278,1341,4,4,https://petstore.octoperf.com/actions/Catalog.action,584,0,381
+1728103947908,584,/actions/Account.action-468-0,302,,UserReg 1-4,,true,,230,675,4,4,https://petstore.octoperf.com/actions/Account.action?signoff=,584,0,381
+1728103948493,152,/actions/Account.action-468-1,200,,UserReg 1-4,text,true,,5048,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,152,0,0
+1728103948645,260,/actions/Catalog.action-469,200,,UserReg 1-4,text,true,,4973,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,260,0,0
+1728103949871,689,UserReg_T05_SignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-2,,true,,4113,678,4,4,null,0,1,467
+1728103949871,689,/actions/Account.action-464,200,,UserReg 1-2,text,true,,4113,678,4,4,https://petstore.octoperf.com/actions/Account.action?signonForm=,689,0,467
+1728103950539,622,UserReg_T06_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-3,,true,,10658,2481,4,4,null,0,2,0
+1728103950540,419,/actions/Account.action-465,200,,UserReg 1-3,text,true,,5444,1803,4,4,https://petstore.octoperf.com/actions/Catalog.action,209,0,0
+1728103950540,209,/actions/Account.action-465-0,302,,UserReg 1-3,,true,,230,1037,4,4,https://petstore.octoperf.com/actions/Account.action,209,0,0
+1728103950749,210,/actions/Account.action-465-1,200,,UserReg 1-3,text,true,,5214,766,4,4,https://petstore.octoperf.com/actions/Catalog.action,210,0,0
+1728103950960,203,/actions/Catalog.action-466,200,,UserReg 1-3,text,true,,5214,678,4,4,https://petstore.octoperf.com/actions/Catalog.action,202,0,0
+1728103953049,668,UserReg_T06_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-2,,true,,10652,2481,4,4,null,0,0,0
+1728103953049,463,/actions/Account.action-465,200,,UserReg 1-2,text,true,,5441,1803,4,4,https://petstore.octoperf.com/actions/Catalog.action,258,0,0
+1728103953049,258,/actions/Account.action-465-0,302,,UserReg 1-2,,true,,230,1037,4,4,https://petstore.octoperf.com/actions/Account.action,258,0,0
+1728103953308,204,/actions/Account.action-465-1,200,,UserReg 1-2,text,true,,5211,766,4,4,https://petstore.octoperf.com/actions/Catalog.action,204,0,0
+1728103953512,205,/actions/Catalog.action-466,200,,UserReg 1-2,text,true,,5211,678,4,4,https://petstore.octoperf.com/actions/Catalog.action,205,0,0
+1728103954909,242,UserReg_T01_PetstoreHomepage,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-4,,true,,6471,543,4,4,null,0,0,0
+1728103954909,242,/actions/Catalog.action-456,200,,UserReg 1-4,text,true,,5664,543,4,4,https://petstore.octoperf.com/actions/Catalog.action,241,0,0
+1728103955151,0,Debug Sampler,200,OK,UserReg 1-4,text,true,,807,0,4,4,null,0,0,0
+1728103956398,450,UserReg_T07_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-3,,true,,10251,2007,4,4,null,0,0,0
+1728103956398,301,/actions/Account.action-468,200,,UserReg 1-3,text,true,,5278,1341,4,4,https://petstore.octoperf.com/actions/Catalog.action,151,0,0
+1728103956398,151,/actions/Account.action-468-0,302,,UserReg 1-3,,true,,230,675,4,4,https://petstore.octoperf.com/actions/Account.action?signoff=,151,0,0
+1728103956549,150,/actions/Account.action-468-1,200,,UserReg 1-3,text,true,,5048,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,149,0,0
+1728103956699,149,/actions/Catalog.action-469,200,,UserReg 1-3,text,true,,4973,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,149,0,0
+1728103957325,590,UserReg_T07_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-2,,true,,10251,2007,4,4,null,0,1,0
+1728103957349,566,UserReg_T05_SignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-1,,true,,4117,678,4,4,null,0,1,362
+1728103957325,386,/actions/Account.action-468,200,,UserReg 1-2,text,true,,5278,1341,4,4,https://petstore.octoperf.com/actions/Catalog.action,181,0,0
+1728103957349,566,/actions/Account.action-464,200,,UserReg 1-1,text,true,,4117,678,4,4,https://petstore.octoperf.com/actions/Account.action?signonForm=,566,0,362
+1728103957325,181,/actions/Account.action-468-0,302,,UserReg 1-2,,true,,230,675,4,4,https://petstore.octoperf.com/actions/Account.action?signoff=,181,0,0
+1728103957506,205,/actions/Account.action-468-1,200,,UserReg 1-2,text,true,,5048,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,204,0,0
+1728103957711,204,/actions/Catalog.action-469,200,,UserReg 1-2,text,true,,4973,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,204,0,0
+1728103957961,261,UserReg_T02_ClkSignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-4,,true,,4093,722,4,4,null,0,1,0
+1728103957961,261,/actions/Account.action-458,200,,UserReg 1-4,text,true,,4093,722,4,4,https://petstore.octoperf.com/actions/Account.action;jsessionid=9E9C00568394EC4F42F02E718071FE92?signonForm=,261,0,0
+1728103960198,176,UserReg_T01_PetstoreHomepage,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-2,,true,,6472,543,4,4,null,0,1,0
+1728103960198,176,/actions/Catalog.action-456,200,,UserReg 1-2,text,true,,5664,543,4,4,https://petstore.octoperf.com/actions/Catalog.action,176,0,0
+1728103960375,0,Debug Sampler,200,OK,UserReg 1-2,text,true,,808,0,4,4,null,0,0,0
+1728103960230,151,UserReg_T01_PetstoreHomepage,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-3,,true,,6476,543,4,4,null,0,1,0
+1728103960230,151,/actions/Catalog.action-456,200,,UserReg 1-3,text,true,,5664,543,4,4,https://petstore.octoperf.com/actions/Catalog.action,151,0,0
+1728103960382,0,Debug Sampler,200,OK,UserReg 1-3,text,true,,812,0,4,4,null,0,0,0
+1728103961037,258,UserReg_T03_RegisterNow,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-4,,true,,6866,694,4,4,null,0,1,0
+1728103961038,258,/actions/Account.action-460,200,,UserReg 1-4,text,true,,6058,694,4,4,https://petstore.octoperf.com/actions/Account.action?newAccountForm=,257,0,0
+1728103961296,0,Debug Sampler,200,OK,UserReg 1-4,text,true,,808,0,4,4,null,0,0,0
+1728103961606,609,UserReg_T06_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-1,,true,,10650,2481,4,4,null,0,0,0
+1728103961606,404,/actions/Account.action-465,200,,UserReg 1-1,text,true,,5440,1803,4,4,https://petstore.octoperf.com/actions/Catalog.action,200,0,0
+1728103961606,200,/actions/Account.action-465-0,302,,UserReg 1-1,,true,,230,1037,4,4,https://petstore.octoperf.com/actions/Account.action,200,0,0
+1728103961806,204,/actions/Account.action-465-1,200,,UserReg 1-1,text,true,,5210,766,4,4,https://petstore.octoperf.com/actions/Catalog.action,203,0,0
+1728103962010,205,/actions/Catalog.action-466,200,,UserReg 1-1,text,true,,5210,678,4,4,https://petstore.octoperf.com/actions/Catalog.action,205,0,0
+1728103962802,234,UserReg_T02_ClkSignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-2,,true,,4097,722,4,4,null,0,1,0
+1728103962803,234,/actions/Account.action-458,200,,UserReg 1-2,text,true,,4097,722,4,4,https://petstore.octoperf.com/actions/Account.action;jsessionid=709196076CB833AEEE7D3FEE82762DF6?signonForm=,233,0,0
+1728103965317,586,UserReg_T04_EnterAndSaveAccInfo,200,"Number of samples in transaction : 3, number of failing samples : 0",UserReg 1-4,,true,,10983,3046,4,4,null,0,1,0
+1728103965318,381,/actions/Account.action-461,200,,UserReg 1-4,text,true,,5203,2364,4,4,https://petstore.octoperf.com/actions/Catalog.action,151,0,0
+1728103965318,151,/actions/Account.action-461-0,302,,UserReg 1-4,,true,,230,1594,4,4,https://petstore.octoperf.com/actions/Account.action,151,0,0
+1728103965469,230,/actions/Account.action-461-1,200,,UserReg 1-4,text,true,,4973,770,4,4,https://petstore.octoperf.com/actions/Catalog.action,230,0,0
+1728103965699,205,/actions/Catalog.action-462,200,,UserReg 1-4,text,true,,4973,682,4,4,https://petstore.octoperf.com/actions/Catalog.action,204,0,0
+1728103965904,0,Debug Sampler,200,OK,UserReg 1-4,text,true,,807,0,4,4,null,0,0,0
+1728103966198,216,UserReg_T02_ClkSignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-3,,true,,4095,722,4,4,null,0,1,0
+1728103966199,216,/actions/Account.action-458,200,,UserReg 1-3,text,true,,4095,722,4,4,https://petstore.octoperf.com/actions/Account.action;jsessionid=F4D9B4C7F84BCA1FFA8079B325C69324?signonForm=,216,0,0
+1728103966616,618,UserReg_T07_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-1,,true,,10251,2007,4,4,null,0,1,0
+1728103966616,413,/actions/Account.action-468,200,,UserReg 1-1,text,true,,5278,1341,4,4,https://petstore.octoperf.com/actions/Catalog.action,157,0,0
+1728103966616,157,/actions/Account.action-468-0,302,,UserReg 1-1,,true,,230,675,4,4,https://petstore.octoperf.com/actions/Account.action?signoff=,157,0,0
+1728103966773,256,/actions/Account.action-468-1,200,,UserReg 1-1,text,true,,5048,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,256,0,0
+1728103967030,205,/actions/Catalog.action-469,200,,UserReg 1-1,text,true,,4973,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,204,0,0
+1728103968042,216,UserReg_T03_RegisterNow,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-2,,true,,6865,694,4,4,null,0,2,0
+1728103968043,216,/actions/Account.action-460,200,,UserReg 1-2,text,true,,6056,694,4,4,https://petstore.octoperf.com/actions/Account.action?newAccountForm=,216,0,0
+1728103968259,0,Debug Sampler,200,OK,UserReg 1-2,text,true,,809,0,4,4,null,0,0,0
+1728103968842,235,UserReg_T03_RegisterNow,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-3,,true,,6865,694,4,4,null,0,1,0
+1728103968842,235,/actions/Account.action-460,200,,UserReg 1-3,text,true,,6058,694,4,4,https://petstore.octoperf.com/actions/Account.action?newAccountForm=,235,0,0
+1728103969078,0,Debug Sampler,200,OK,UserReg 1-3,text,true,,807,0,4,4,null,0,0,0
+1728103969598,196,UserReg_T01_PetstoreHomepage,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-1,,true,,6471,543,4,4,null,0,1,0
+1728103969598,196,/actions/Catalog.action-456,200,,UserReg 1-1,text,true,,5664,543,4,4,https://petstore.octoperf.com/actions/Catalog.action,195,0,0
+1728103969794,0,Debug Sampler,200,OK,UserReg 1-1,text,true,,807,0,4,4,null,0,0,0
+1728103971131,606,UserReg_T04_EnterAndSaveAccInfo,200,"Number of samples in transaction : 3, number of failing samples : 0",UserReg 1-2,,true,,10985,3047,4,4,null,0,2,0
+1728103971132,403,/actions/Account.action-461,200,,UserReg 1-2,text,true,,5203,2365,4,4,https://petstore.octoperf.com/actions/Catalog.action,197,0,0
+1728103971132,197,/actions/Account.action-461-0,302,,UserReg 1-2,,true,,230,1595,4,4,https://petstore.octoperf.com/actions/Account.action,197,0,0
+1728103971330,205,/actions/Account.action-461-1,200,,UserReg 1-2,text,true,,4973,770,4,4,https://petstore.octoperf.com/actions/Catalog.action,205,0,0
+1728103971536,203,/actions/Catalog.action-462,200,,UserReg 1-2,text,true,,4973,682,4,4,https://petstore.octoperf.com/actions/Catalog.action,203,0,0
+1728103971739,0,Debug Sampler,200,OK,UserReg 1-2,text,true,,809,0,4,4,null,0,0,0
+1728103971990,261,UserReg_T02_ClkSignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-1,,true,,4097,722,4,4,null,0,1,0
+1728103971990,261,/actions/Account.action-458,200,,UserReg 1-1,text,true,,4097,722,4,4,https://petstore.octoperf.com/actions/Account.action;jsessionid=A236556962A9117F240EE08485EC8E76?signonForm=,261,0,0
+1728103972725,654,UserReg_T04_EnterAndSaveAccInfo,200,"Number of samples in transaction : 3, number of failing samples : 0",UserReg 1-3,,true,,10983,3045,4,4,null,0,0,0
+1728103972725,448,/actions/Account.action-461,200,,UserReg 1-3,text,true,,5203,2363,4,4,https://petstore.octoperf.com/actions/Catalog.action,242,0,0
+1728103972725,242,/actions/Account.action-461-0,302,,UserReg 1-3,,true,,230,1593,4,4,https://petstore.octoperf.com/actions/Account.action,242,0,0
+1728103972967,206,/actions/Account.action-461-1,200,,UserReg 1-3,text,true,,4973,770,4,4,https://petstore.octoperf.com/actions/Catalog.action,205,0,0
+1728103973172,205,/actions/Catalog.action-462,200,,UserReg 1-3,text,true,,4973,682,4,4,https://petstore.octoperf.com/actions/Catalog.action,205,0,0
+1728103973377,1,Debug Sampler,200,OK,UserReg 1-3,text,true,,807,0,4,4,null,0,0,0
+1728103976363,193,UserReg_T03_RegisterNow,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-1,,true,,6867,694,4,4,null,0,1,0
+1728103976364,193,/actions/Account.action-460,200,,UserReg 1-1,text,true,,6060,694,4,4,https://petstore.octoperf.com/actions/Account.action?newAccountForm=,192,0,0
+1728103976557,0,Debug Sampler,200,OK,UserReg 1-1,text,true,,807,0,4,4,null,0,0,0
+1728103977800,193,UserReg_T05_SignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-2,,true,,4119,678,4,4,null,0,1,0
+1728103977800,193,/actions/Account.action-464,200,,UserReg 1-2,text,true,,4119,678,4,4,https://petstore.octoperf.com/actions/Account.action?signonForm=,193,0,0
+1728103978384,155,UserReg_T05_SignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-4,,true,,4119,678,4,4,null,0,2,0
+1728103978385,155,/actions/Account.action-464,200,,UserReg 1-4,text,true,,4119,678,4,4,https://petstore.octoperf.com/actions/Account.action?signonForm=,155,0,0
+1728103980818,653,UserReg_T04_EnterAndSaveAccInfo,200,"Number of samples in transaction : 3, number of failing samples : 0",UserReg 1-1,,true,,10983,3045,4,4,null,0,2,0
+1728103980819,402,/actions/Account.action-461,200,,UserReg 1-1,text,true,,5203,2363,4,4,https://petstore.octoperf.com/actions/Catalog.action,238,0,0
+1728103980819,238,/actions/Account.action-461-0,302,,UserReg 1-1,,true,,230,1593,4,4,https://petstore.octoperf.com/actions/Account.action,238,0,0
+1728103981057,164,/actions/Account.action-461-1,200,,UserReg 1-1,text,true,,4973,770,4,4,https://petstore.octoperf.com/actions/Catalog.action,163,0,0
+1728103981221,251,/actions/Catalog.action-462,200,,UserReg 1-1,text,true,,4973,682,4,4,https://petstore.octoperf.com/actions/Catalog.action,251,0,0
+1728103981472,0,Debug Sampler,200,OK,UserReg 1-1,text,true,,807,0,4,4,null,0,0,0
+1728103981877,511,UserReg_T06_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-4,,true,,10650,2481,4,4,null,0,2,0
+1728103981878,362,/actions/Account.action-465,200,,UserReg 1-4,text,true,,5440,1803,4,4,https://petstore.octoperf.com/actions/Catalog.action,203,0,0
+1728103981878,203,/actions/Account.action-465-0,302,,UserReg 1-4,,true,,230,1037,4,4,https://petstore.octoperf.com/actions/Account.action,203,0,0
+1728103982081,159,/actions/Account.action-465-1,200,,UserReg 1-4,text,true,,5210,766,4,4,https://petstore.octoperf.com/actions/Catalog.action,159,0,0
+1728103982241,149,/actions/Catalog.action-466,200,,UserReg 1-4,text,true,,5210,678,4,4,https://petstore.octoperf.com/actions/Catalog.action,148,0,0
+1728103983872,976,UserReg_T06_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-2,,true,,10652,2481,4,4,null,0,2,0
+1728103983873,831,/actions/Account.action-465,200,,UserReg 1-2,text,true,,5441,1803,4,4,https://petstore.octoperf.com/actions/Catalog.action,686,0,0
+1728103983873,686,/actions/Account.action-465-0,302,,UserReg 1-2,,true,,230,1037,4,4,https://petstore.octoperf.com/actions/Account.action,686,0,0
+1728103984559,145,/actions/Account.action-465-1,200,,UserReg 1-2,text,true,,5211,766,4,4,https://petstore.octoperf.com/actions/Catalog.action,145,0,0
+1728103984705,145,/actions/Catalog.action-466,200,,UserReg 1-2,text,true,,5211,678,4,4,https://petstore.octoperf.com/actions/Catalog.action,145,0,0
+1728103985283,535,UserReg_T07_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-4,,true,,10251,2007,4,4,null,0,2,0
+1728103985284,384,/actions/Account.action-468,200,,UserReg 1-4,text,true,,5278,1341,4,4,https://petstore.octoperf.com/actions/Catalog.action,177,0,0
+1728103985284,177,/actions/Account.action-468-0,302,,UserReg 1-4,,true,,230,675,4,4,https://petstore.octoperf.com/actions/Account.action?signoff=,177,0,0
+1728103985462,206,/actions/Account.action-468-1,200,,UserReg 1-4,text,true,,5048,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,206,0,0
+1728103985669,151,/actions/Catalog.action-469,200,,UserReg 1-4,text,true,,4973,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,151,0,0
+1728103987570,248,UserReg_T05_SignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-3,,true,,4115,678,4,4,null,0,1,0
+1728103987571,248,/actions/Account.action-464,200,,UserReg 1-3,text,true,,4115,678,4,4,https://petstore.octoperf.com/actions/Account.action?signonForm=,248,0,0
+1728103989425,238,UserReg_T01_PetstoreHomepage,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-4,,true,,6472,543,4,4,null,0,1,0
+1728103989426,238,/actions/Catalog.action-456,200,,UserReg 1-4,text,true,,5664,543,4,4,https://petstore.octoperf.com/actions/Catalog.action,238,0,0
+1728103989664,0,Debug Sampler,200,OK,UserReg 1-4,text,true,,808,0,4,4,null,0,0,0
+1728103990573,169,UserReg_T05_SignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-1,,true,,4115,678,4,4,null,0,1,0
+1728103990574,169,/actions/Account.action-464,200,,UserReg 1-1,text,true,,4115,678,4,4,https://petstore.octoperf.com/actions/Account.action?signonForm=,169,0,0
+1728103990263,530,UserReg_T07_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-2,,true,,10251,2007,4,4,null,0,0,0
+1728103990263,380,/actions/Account.action-468,200,,UserReg 1-2,text,true,,5278,1341,4,4,https://petstore.octoperf.com/actions/Catalog.action,235,0,0
+1728103990263,235,/actions/Account.action-468-0,302,,UserReg 1-2,,true,,230,675,4,4,https://petstore.octoperf.com/actions/Account.action?signoff=,235,0,0
+1728103990498,145,/actions/Account.action-468-1,200,,UserReg 1-2,text,true,,5048,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,145,0,0
+1728103990643,150,/actions/Catalog.action-469,200,,UserReg 1-2,text,true,,4973,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,149,0,0
+1728103990885,617,UserReg_T06_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-3,,true,,10650,2481,4,4,null,0,1,0
+1728103990885,356,/actions/Account.action-465,200,,UserReg 1-3,text,true,,5440,1803,4,4,https://petstore.octoperf.com/actions/Catalog.action,207,0,0
+1728103990885,207,/actions/Account.action-465-0,302,,UserReg 1-3,,true,,230,1037,4,4,https://petstore.octoperf.com/actions/Account.action,207,0,0
+1728103991092,149,/actions/Account.action-465-1,200,,UserReg 1-3,text,true,,5210,766,4,4,https://petstore.octoperf.com/actions/Catalog.action,149,0,0
+1728103991241,261,/actions/Catalog.action-466,200,,UserReg 1-3,text,true,,5210,678,4,4,https://petstore.octoperf.com/actions/Catalog.action,261,0,0
+1728103992927,621,UserReg_T06_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-1,,true,,10650,2481,4,4,null,0,2,0
+1728103992928,387,/actions/Account.action-465,200,,UserReg 1-1,text,true,,5440,1803,4,4,https://petstore.octoperf.com/actions/Catalog.action,212,0,0
+1728103992928,212,/actions/Account.action-465-0,302,,UserReg 1-1,,true,,230,1037,4,4,https://petstore.octoperf.com/actions/Account.action,212,0,0
+1728103993140,175,/actions/Account.action-465-1,200,,UserReg 1-1,text,true,,5210,766,4,4,https://petstore.octoperf.com/actions/Catalog.action,175,0,0
+1728103993316,234,/actions/Catalog.action-466,200,,UserReg 1-1,text,true,,5210,678,4,4,https://petstore.octoperf.com/actions/Catalog.action,234,0,0
+1728103994425,221,UserReg_T02_ClkSignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-4,,true,,4095,722,4,4,null,0,2,0
+1728103994426,221,/actions/Account.action-458,200,,UserReg 1-4,text,true,,4095,722,4,4,https://petstore.octoperf.com/actions/Account.action;jsessionid=13E48B75718B6D4E052A57DC724AF90F?signonForm=,221,0,0
+1728103994643,160,UserReg_T01_PetstoreHomepage,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-2,,true,,6473,543,4,4,null,0,1,0
+1728103994643,160,/actions/Catalog.action-456,200,,UserReg 1-2,text,true,,5664,543,4,4,https://petstore.octoperf.com/actions/Catalog.action,160,0,0
+1728103994804,0,Debug Sampler,200,OK,UserReg 1-2,text,true,,809,0,4,4,null,0,0,0
+1728103994770,621,UserReg_T07_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-3,,true,,10251,2007,4,4,null,0,2,0
+1728103994771,417,/actions/Account.action-468,200,,UserReg 1-3,text,true,,5278,1341,4,4,https://petstore.octoperf.com/actions/Catalog.action,212,0,0
+1728103994771,212,/actions/Account.action-468-0,302,,UserReg 1-3,,true,,230,675,4,4,https://petstore.octoperf.com/actions/Account.action?signoff=,212,0,0
+1728103994984,204,/actions/Account.action-468-1,200,,UserReg 1-3,text,true,,5048,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,204,0,0
+1728103995189,204,/actions/Catalog.action-469,200,,UserReg 1-3,text,true,,4973,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,204,0,0
+1728103998199,164,UserReg_T02_ClkSignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-2,,true,,4097,722,4,4,null,0,2,0
+1728103998200,164,/actions/Account.action-458,200,,UserReg 1-2,text,true,,4097,722,4,4,https://petstore.octoperf.com/actions/Account.action;jsessionid=327F0E00C74907D9B21EA0E8458E13F7?signonForm=,164,0,0
+1728103999223,152,UserReg_T03_RegisterNow,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-4,,true,,6863,694,4,4,null,0,1,0
+1728103999223,152,/actions/Account.action-460,200,,UserReg 1-4,text,true,,6056,694,4,4,https://petstore.octoperf.com/actions/Account.action?newAccountForm=,152,0,0
+1728103999376,0,Debug Sampler,200,OK,UserReg 1-4,text,true,,807,0,4,4,null,0,0,0
+1728103999301,450,UserReg_T07_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-1,,true,,10251,2007,4,4,null,0,1,0
+1728103999301,301,/actions/Account.action-468,200,,UserReg 1-1,text,true,,5278,1341,4,4,https://petstore.octoperf.com/actions/Catalog.action,150,0,0
+1728103999301,150,/actions/Account.action-468-0,302,,UserReg 1-1,,true,,230,675,4,4,https://petstore.octoperf.com/actions/Account.action?signoff=,150,0,0
+1728103999452,150,/actions/Account.action-468-1,200,,UserReg 1-1,text,true,,5048,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,149,0,0
+1728103999603,149,/actions/Catalog.action-469,200,,UserReg 1-1,text,true,,4973,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,149,0,0
+1728104000881,250,UserReg_T01_PetstoreHomepage,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-3,,true,,6471,543,4,4,null,0,0,0
+1728104000881,250,/actions/Catalog.action-456,200,,UserReg 1-3,text,true,,5664,543,4,4,https://petstore.octoperf.com/actions/Catalog.action,250,0,0
+1728104001131,0,Debug Sampler,200,OK,UserReg 1-3,text,true,,807,0,4,4,null,0,0,0
+1728104001384,219,UserReg_T03_RegisterNow,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-2,,true,,6869,694,4,4,null,0,1,0
+1728104001385,219,/actions/Account.action-460,200,,UserReg 1-2,text,true,,6058,694,4,4,https://petstore.octoperf.com/actions/Account.action?newAccountForm=,218,0,0
+1728104001604,0,Debug Sampler,200,OK,UserReg 1-2,text,true,,811,0,4,4,null,0,0,0
+1728104002427,155,UserReg_T01_PetstoreHomepage,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-1,,true,,6471,543,4,4,null,0,1,0
+1728104002428,154,/actions/Catalog.action-456,200,,UserReg 1-1,text,true,,5664,543,4,4,https://petstore.octoperf.com/actions/Catalog.action,153,0,0
+1728104002582,1,Debug Sampler,200,OK,UserReg 1-1,text,true,,807,0,4,4,null,0,0,0
+1728104004438,173,UserReg_T02_ClkSignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-3,,true,,4095,722,4,4,null,0,0,0
+1728104004438,173,/actions/Account.action-458,200,,UserReg 1-3,text,true,,4095,722,4,4,https://petstore.octoperf.com/actions/Account.action;jsessionid=8187E39246EC9B53BD0950DE822B5388?signonForm=,173,0,0
+1728104005099,634,UserReg_T04_EnterAndSaveAccInfo,200,"Number of samples in transaction : 3, number of failing samples : 0",UserReg 1-4,,true,,10982,3045,4,4,null,0,3,0
+1728104005100,430,/actions/Account.action-461,200,,UserReg 1-4,text,true,,5203,2363,4,4,https://petstore.octoperf.com/actions/Catalog.action,225,0,0
+1728104005100,225,/actions/Account.action-461-0,302,,UserReg 1-4,,true,,230,1593,4,4,https://petstore.octoperf.com/actions/Account.action,225,0,0
+1728104005326,204,/actions/Account.action-461-1,200,,UserReg 1-4,text,true,,4973,770,4,4,https://petstore.octoperf.com/actions/Catalog.action,204,0,0
+1728104005531,204,/actions/Catalog.action-462,200,,UserReg 1-4,text,true,,4973,682,4,4,https://petstore.octoperf.com/actions/Catalog.action,204,0,0
+1728104005736,0,Debug Sampler,200,OK,UserReg 1-4,text,true,,806,0,4,4,null,0,0,0
+1728104005871,582,UserReg_T04_EnterAndSaveAccInfo,200,"Number of samples in transaction : 3, number of failing samples : 0",UserReg 1-2,,true,,10987,3049,4,4,null,0,0,0
+1728104005871,321,/actions/Account.action-461,200,,UserReg 1-2,text,true,,5203,2367,4,4,https://petstore.octoperf.com/actions/Catalog.action,171,0,0
+1728104005871,171,/actions/Account.action-461-0,302,,UserReg 1-2,,true,,230,1597,4,4,https://petstore.octoperf.com/actions/Account.action,171,0,0
+1728104006042,150,/actions/Account.action-461-1,200,,UserReg 1-2,text,true,,4973,770,4,4,https://petstore.octoperf.com/actions/Catalog.action,149,0,0
+1728104006192,261,/actions/Catalog.action-462,200,,UserReg 1-2,text,true,,4973,682,4,4,https://petstore.octoperf.com/actions/Catalog.action,260,0,0
+1728104006453,0,Debug Sampler,200,OK,UserReg 1-2,text,true,,811,0,4,4,null,0,0,0
+1728104006594,186,UserReg_T02_ClkSignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-1,,true,,4095,722,4,4,null,0,0,0
+1728104006594,186,/actions/Account.action-458,200,,UserReg 1-1,text,true,,4095,722,4,4,https://petstore.octoperf.com/actions/Account.action;jsessionid=66718DDDFD35759FAA4C117558B53A48?signonForm=,186,0,0
+1728104008038,615,UserReg_T03_RegisterNow,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-3,,true,,6865,694,4,4,null,0,1,461
+1728104008038,615,/actions/Account.action-460,200,,UserReg 1-3,text,true,,6058,694,4,4,https://petstore.octoperf.com/actions/Account.action?newAccountForm=,613,0,461
+1728104008655,0,Debug Sampler,200,OK,UserReg 1-3,text,true,,807,0,4,4,null,0,0,0
+1728104011403,476,UserReg_T04_EnterAndSaveAccInfo,200,"Number of samples in transaction : 3, number of failing samples : 0",UserReg 1-3,,true,,10983,3045,4,4,null,0,3,0
+1728104011404,324,/actions/Account.action-461,200,,UserReg 1-3,text,true,,5203,2363,4,4,https://petstore.octoperf.com/actions/Catalog.action,168,0,0
+1728104011404,168,/actions/Account.action-461-0,302,,UserReg 1-3,,true,,230,1593,4,4,https://petstore.octoperf.com/actions/Account.action,168,0,0
+1728104011572,156,/actions/Account.action-461-1,200,,UserReg 1-3,text,true,,4973,770,4,4,https://petstore.octoperf.com/actions/Catalog.action,156,0,0
+1728104011729,152,/actions/Catalog.action-462,200,,UserReg 1-3,text,true,,4973,682,4,4,https://petstore.octoperf.com/actions/Catalog.action,152,0,0
+1728104011882,0,Debug Sampler,200,OK,UserReg 1-3,text,true,,807,0,4,4,null,0,0,0
+1728104011963,223,UserReg_T03_RegisterNow,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-1,,true,,6866,694,4,4,null,0,1,0
+1728104011964,223,/actions/Account.action-460,200,,UserReg 1-1,text,true,,6058,694,4,4,https://petstore.octoperf.com/actions/Account.action?newAccountForm=,222,0,0
+1728104012187,0,Debug Sampler,200,OK,UserReg 1-1,text,true,,808,0,4,4,null,0,0,0
+1728104014080,512,UserReg_T05_SignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-4,,true,,4119,678,4,4,null,0,1,358
+1728104014080,512,/actions/Account.action-464,200,,UserReg 1-4,text,true,,4119,678,4,4,https://petstore.octoperf.com/actions/Account.action?signonForm=,512,0,358
+1728104016245,549,UserReg_T04_EnterAndSaveAccInfo,200,"Number of samples in transaction : 3, number of failing samples : 0",UserReg 1-1,,true,,10984,3046,4,4,null,0,1,0
+1728104016245,303,/actions/Account.action-461,200,,UserReg 1-1,text,true,,5203,2364,4,4,https://petstore.octoperf.com/actions/Catalog.action,150,0,0
+1728104016245,150,/actions/Account.action-461-0,302,,UserReg 1-1,,true,,230,1594,4,4,https://petstore.octoperf.com/actions/Account.action,150,0,0
+1728104016395,153,/actions/Account.action-461-1,200,,UserReg 1-1,text,true,,4973,770,4,4,https://petstore.octoperf.com/actions/Catalog.action,153,0,0
+1728104016549,246,/actions/Catalog.action-462,200,,UserReg 1-1,text,true,,4973,682,4,4,https://petstore.octoperf.com/actions/Catalog.action,245,0,0
+1728104016795,0,Debug Sampler,200,OK,UserReg 1-1,text,true,,808,0,4,4,null,0,0,0
+1728104018054,584,UserReg_T05_SignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-2,,true,,4119,678,4,4,null,0,0,383
+1728104018054,584,/actions/Account.action-464,200,,UserReg 1-2,text,true,,4119,678,4,4,https://petstore.octoperf.com/actions/Account.action?signonForm=,584,0,383
+1728104019233,632,UserReg_T06_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-4,,true,,10650,2481,4,4,null,0,1,0
+1728104019233,429,/actions/Account.action-465,200,,UserReg 1-4,text,true,,5440,1803,4,4,https://petstore.octoperf.com/actions/Catalog.action,224,0,0
+1728104019233,224,/actions/Account.action-465-0,302,,UserReg 1-4,,true,,230,1037,4,4,https://petstore.octoperf.com/actions/Account.action,224,0,0
+1728104019458,204,/actions/Account.action-465-1,200,,UserReg 1-4,text,true,,5210,766,4,4,https://petstore.octoperf.com/actions/Catalog.action,204,0,0
+1728104019663,203,/actions/Catalog.action-466,200,,UserReg 1-4,text,true,,5210,678,4,4,https://petstore.octoperf.com/actions/Catalog.action,203,0,0
+1728104020724,150,UserReg_T05_SignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-3,,true,,4117,678,4,4,null,0,0,0
+1728104020724,150,/actions/Account.action-464,200,,UserReg 1-3,text,true,,4117,678,4,4,https://petstore.octoperf.com/actions/Account.action?signonForm=,150,0,0
+1728104022751,597,UserReg_T06_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-2,,true,,10658,2481,4,4,null,0,0,0
+1728104022751,393,/actions/Account.action-465,200,,UserReg 1-2,text,true,,5444,1803,4,4,https://petstore.octoperf.com/actions/Catalog.action,146,0,0
+1728104022751,146,/actions/Account.action-465-0,302,,UserReg 1-2,,true,,230,1037,4,4,https://petstore.octoperf.com/actions/Account.action,146,0,0
+1728104022897,247,/actions/Account.action-465-1,200,,UserReg 1-2,text,true,,5214,766,4,4,https://petstore.octoperf.com/actions/Catalog.action,247,0,0
+1728104023144,204,/actions/Catalog.action-466,200,,UserReg 1-2,text,true,,5214,678,4,4,https://petstore.octoperf.com/actions/Catalog.action,204,0,0
+1728104023882,594,UserReg_T07_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-4,,true,,10251,2007,4,4,null,0,0,0
+1728104023882,388,/actions/Account.action-468,200,,UserReg 1-4,text,true,,5278,1341,4,4,https://petstore.octoperf.com/actions/Catalog.action,182,0,0
+1728104023882,182,/actions/Account.action-468-0,302,,UserReg 1-4,,true,,230,675,4,4,https://petstore.octoperf.com/actions/Account.action?signoff=,182,0,0
+1728104024064,206,/actions/Account.action-468-1,200,,UserReg 1-4,text,true,,5048,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,205,0,0
+1728104024270,206,/actions/Catalog.action-469,200,,UserReg 1-4,text,true,,4973,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,206,0,0
+1728104025237,670,UserReg_T06_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-3,,true,,10650,2481,4,4,null,0,1,0
+1728104025237,465,/actions/Account.action-465,200,,UserReg 1-3,text,true,,5440,1803,4,4,https://petstore.octoperf.com/actions/Catalog.action,266,0,0
+1728104025237,266,/actions/Account.action-465-0,302,,UserReg 1-3,,true,,230,1037,4,4,https://petstore.octoperf.com/actions/Account.action,266,0,0
+1728104025503,199,/actions/Account.action-465-1,200,,UserReg 1-3,text,true,,5210,766,4,4,https://petstore.octoperf.com/actions/Catalog.action,199,0,0
+1728104025703,205,/actions/Catalog.action-466,200,,UserReg 1-3,text,true,,5210,678,4,4,https://petstore.octoperf.com/actions/Catalog.action,205,0,0
+1728104027416,168,UserReg_T01_PetstoreHomepage,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-4,,true,,6471,543,4,4,null,0,0,0
+1728104027416,168,/actions/Catalog.action-456,200,,UserReg 1-4,text,true,,5664,543,4,4,https://petstore.octoperf.com/actions/Catalog.action,167,0,0
+1728104027584,0,Debug Sampler,200,OK,UserReg 1-4,text,true,,807,0,4,4,null,0,0,0
+1728104027577,457,UserReg_T07_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-2,,true,,10251,2007,4,4,null,0,1,0
+1728104027577,291,/actions/Account.action-468,200,,UserReg 1-2,text,true,,5278,1341,4,4,https://petstore.octoperf.com/actions/Catalog.action,146,0,0
+1728104027577,146,/actions/Account.action-468-0,302,,UserReg 1-2,,true,,230,675,4,4,https://petstore.octoperf.com/actions/Account.action?signoff=,146,0,0
+1728104027723,145,/actions/Account.action-468-1,200,,UserReg 1-2,text,true,,5048,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,145,0,0
+1728104027869,166,/actions/Catalog.action-469,200,,UserReg 1-2,text,true,,4973,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,165,0,0
+1728104028946,547,UserReg_T05_SignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-1,,true,,4117,678,4,4,null,0,0,319
+1728104028946,547,/actions/Account.action-464,200,,UserReg 1-1,text,true,,4117,678,4,4,https://petstore.octoperf.com/actions/Account.action?signonForm=,547,0,319
+1728104031282,156,UserReg_T01_PetstoreHomepage,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-2,,true,,6475,543,4,4,null,0,2,0
+1728104031283,156,/actions/Catalog.action-456,200,,UserReg 1-2,text,true,,5664,543,4,4,https://petstore.octoperf.com/actions/Catalog.action,156,0,0
+1728104031440,0,Debug Sampler,200,OK,UserReg 1-2,text,true,,811,0,4,4,null,0,0,0
+1728104031866,596,UserReg_T07_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-3,,true,,10251,2007,4,4,null,0,1,0
+1728104031867,390,/actions/Account.action-468,200,,UserReg 1-3,text,true,,5278,1341,4,4,https://petstore.octoperf.com/actions/Catalog.action,201,0,0
+1728104031867,201,/actions/Account.action-468-0,302,,UserReg 1-3,,true,,230,675,4,4,https://petstore.octoperf.com/actions/Account.action?signoff=,201,0,0
+1728104032068,189,/actions/Account.action-468-1,200,,UserReg 1-3,text,true,,5048,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,189,0,0
+1728104032257,206,/actions/Catalog.action-469,200,,UserReg 1-3,text,true,,4973,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,205,0,0
+1728104032517,253,UserReg_T02_ClkSignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-4,,true,,4095,722,4,4,null,0,1,0
+1728104032517,253,/actions/Account.action-458,200,,UserReg 1-4,text,true,,4095,722,4,4,https://petstore.octoperf.com/actions/Account.action;jsessionid=D8D15C3C0728C1CD5D61865B7309BBA1?signonForm=,253,0,0
+1728104033820,148,UserReg_T02_ClkSignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-2,,true,,4093,722,4,4,null,0,2,0
+1728104033821,148,/actions/Account.action-458,200,,UserReg 1-2,text,true,,4093,722,4,4,https://petstore.octoperf.com/actions/Account.action;jsessionid=BDF9B0391021E3F8D685C81611F75831?signonForm=,148,0,0
+1728104034296,622,UserReg_T06_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-1,,true,,10650,2481,4,4,null,0,1,0
+1728104034296,418,/actions/Account.action-465,200,,UserReg 1-1,text,true,,5440,1803,4,4,https://petstore.octoperf.com/actions/Catalog.action,228,0,0
+1728104034296,228,/actions/Account.action-465-0,302,,UserReg 1-1,,true,,230,1037,4,4,https://petstore.octoperf.com/actions/Account.action,228,0,0
+1728104034525,189,/actions/Account.action-465-1,200,,UserReg 1-1,text,true,,5210,766,4,4,https://petstore.octoperf.com/actions/Catalog.action,189,0,0
+1728104034715,204,/actions/Catalog.action-466,200,,UserReg 1-1,text,true,,5210,678,4,4,https://petstore.octoperf.com/actions/Catalog.action,204,0,0
+1728104035830,216,UserReg_T03_RegisterNow,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-4,,true,,6868,694,4,4,null,0,1,0
+1728104035830,216,/actions/Account.action-460,200,,UserReg 1-4,text,true,,6060,694,4,4,https://petstore.octoperf.com/actions/Account.action?newAccountForm=,216,0,0
+1728104036047,0,Debug Sampler,200,OK,UserReg 1-4,text,true,,808,0,4,4,null,0,0,0
+1728104037080,195,UserReg_T03_RegisterNow,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-2,,true,,6865,694,4,4,null,0,0,0
+1728104037080,195,/actions/Account.action-460,200,,UserReg 1-2,text,true,,6058,694,4,4,https://petstore.octoperf.com/actions/Account.action?newAccountForm=,195,0,0
+1728104037275,0,Debug Sampler,200,OK,UserReg 1-2,text,true,,807,0,4,4,null,0,0,0
+1728104037455,640,UserReg_T07_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-1,,true,,10251,2007,4,4,null,0,2,0
+1728104037456,381,/actions/Account.action-468,200,,UserReg 1-1,text,true,,5278,1341,4,4,https://petstore.octoperf.com/actions/Catalog.action,234,0,0
+1728104037456,234,/actions/Account.action-468-0,302,,UserReg 1-1,,true,,230,675,4,4,https://petstore.octoperf.com/actions/Account.action?signoff=,234,0,0
+1728104037691,146,/actions/Account.action-468-1,200,,UserReg 1-1,text,true,,5048,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,146,0,0
+1728104037837,259,/actions/Catalog.action-469,200,,UserReg 1-1,text,true,,4973,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,259,0,0
+1728104038339,151,UserReg_T01_PetstoreHomepage,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-3,,true,,6471,543,4,4,null,0,2,0
+1728104038340,151,/actions/Catalog.action-456,200,,UserReg 1-3,text,true,,5664,543,4,4,https://petstore.octoperf.com/actions/Catalog.action,151,0,0
+1728104038492,0,Debug Sampler,200,OK,UserReg 1-3,text,true,,807,0,4,4,null,0,0,0
+1728104038235,473,UserReg_T04_EnterAndSaveAccInfo,200,"Number of samples in transaction : 3, number of failing samples : 0",UserReg 1-4,,true,,10983,3046,4,4,null,0,1,0
+1728104038235,303,/actions/Account.action-461,200,,UserReg 1-4,text,true,,5203,2364,4,4,https://petstore.octoperf.com/actions/Catalog.action,153,0,0
+1728104038235,153,/actions/Account.action-461-0,302,,UserReg 1-4,,true,,230,1594,4,4,https://petstore.octoperf.com/actions/Account.action,153,0,0
+1728104038388,150,/actions/Account.action-461-1,200,,UserReg 1-4,text,true,,4973,770,4,4,https://petstore.octoperf.com/actions/Catalog.action,149,0,0
+1728104038538,170,/actions/Catalog.action-462,200,,UserReg 1-4,text,true,,4973,682,4,4,https://petstore.octoperf.com/actions/Catalog.action,170,0,0
+1728104038709,0,Debug Sampler,200,OK,UserReg 1-4,text,true,,807,0,4,4,null,0,0,0
+1728104040919,200,UserReg_T02_ClkSignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-3,,true,,4095,722,4,4,null,0,1,0
+1728104040920,200,/actions/Account.action-458,200,,UserReg 1-3,text,true,,4095,722,4,4,https://petstore.octoperf.com/actions/Account.action;jsessionid=1EBC93C90A9405B0464F6AB597EA510B?signonForm=,200,0,0
+1728104041625,563,UserReg_T04_EnterAndSaveAccInfo,200,"Number of samples in transaction : 3, number of failing samples : 0",UserReg 1-2,,true,,10983,3045,4,4,null,0,2,0
+1728104041626,417,/actions/Account.action-461,200,,UserReg 1-2,text,true,,5203,2363,4,4,https://petstore.octoperf.com/actions/Catalog.action,256,0,0
+1728104041626,256,/actions/Account.action-461-0,302,,UserReg 1-2,,true,,230,1593,4,4,https://petstore.octoperf.com/actions/Account.action,256,0,0
+1728104041882,161,/actions/Account.action-461-1,200,,UserReg 1-2,text,true,,4973,770,4,4,https://petstore.octoperf.com/actions/Catalog.action,161,0,0
+1728104042044,146,/actions/Catalog.action-462,200,,UserReg 1-2,text,true,,4973,682,4,4,https://petstore.octoperf.com/actions/Catalog.action,146,0,0
+1728104042190,0,Debug Sampler,200,OK,UserReg 1-2,text,true,,807,0,4,4,null,0,0,0
+1728104042362,238,UserReg_T01_PetstoreHomepage,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-1,,true,,6472,543,4,4,null,0,1,0
+1728104042362,238,/actions/Catalog.action-456,200,,UserReg 1-1,text,true,,5664,543,4,4,https://petstore.octoperf.com/actions/Catalog.action,238,0,0
+1728104042601,0,Debug Sampler,200,OK,UserReg 1-1,text,true,,808,0,4,4,null,0,0,0
+1728104044810,247,UserReg_T05_SignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-4,,true,,4115,678,4,4,null,0,1,0
+1728104044811,247,/actions/Account.action-464,200,,UserReg 1-4,text,true,,4115,678,4,4,https://petstore.octoperf.com/actions/Account.action?signonForm=,247,0,0
+1728104045586,188,UserReg_T03_RegisterNow,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-3,,true,,6867,694,4,4,null,0,2,0
+1728104045587,188,/actions/Account.action-460,200,,UserReg 1-3,text,true,,6056,694,4,4,https://petstore.octoperf.com/actions/Account.action?newAccountForm=,188,0,0
+1728104045776,0,Debug Sampler,200,OK,UserReg 1-3,text,true,,811,0,4,4,null,0,0,0
+1728104048604,156,UserReg_T02_ClkSignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-1,,true,,4095,722,4,4,null,0,2,0
+1728104048605,156,/actions/Account.action-458,200,,UserReg 1-1,text,true,,4095,722,4,4,https://petstore.octoperf.com/actions/Account.action;jsessionid=A7ADC1B444ABBCA9B200FF70C3EB9FA6?signonForm=,156,0,0
+1728104048302,557,UserReg_T04_EnterAndSaveAccInfo,200,"Number of samples in transaction : 3, number of failing samples : 0",UserReg 1-3,,true,,10987,3049,4,4,null,0,1,0
+1728104048303,397,/actions/Account.action-461,200,,UserReg 1-3,text,true,,5203,2367,4,4,https://petstore.octoperf.com/actions/Catalog.action,246,0,0
+1728104048303,246,/actions/Account.action-461-0,302,,UserReg 1-3,,true,,230,1597,4,4,https://petstore.octoperf.com/actions/Account.action,246,0,0
+1728104048549,151,/actions/Account.action-461-1,200,,UserReg 1-3,text,true,,4973,770,4,4,https://petstore.octoperf.com/actions/Catalog.action,151,0,0
+1728104048700,160,/actions/Catalog.action-462,200,,UserReg 1-3,text,true,,4973,682,4,4,https://petstore.octoperf.com/actions/Catalog.action,160,0,0
+1728104048860,0,Debug Sampler,200,OK,UserReg 1-3,text,true,,811,0,4,4,null,0,0,0
+1728104048735,520,UserReg_T06_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-4,,true,,10652,2481,4,4,null,0,2,0
+1728104048735,316,/actions/Account.action-465,200,,UserReg 1-4,text,true,,5441,1803,4,4,https://petstore.octoperf.com/actions/Catalog.action,149,0,0
+1728104048735,149,/actions/Account.action-465-0,302,,UserReg 1-4,,true,,230,1037,4,4,https://petstore.octoperf.com/actions/Account.action,149,0,0
+1728104048885,166,/actions/Account.action-465-1,200,,UserReg 1-4,text,true,,5211,766,4,4,https://petstore.octoperf.com/actions/Catalog.action,166,0,0
+1728104049052,204,/actions/Catalog.action-466,200,,UserReg 1-4,text,true,,5211,678,4,4,https://petstore.octoperf.com/actions/Catalog.action,204,0,0
+1728104049496,167,UserReg_T05_SignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-2,,true,,4117,678,4,4,null,0,1,0
+1728104049497,167,/actions/Account.action-464,200,,UserReg 1-2,text,true,,4117,678,4,4,https://petstore.octoperf.com/actions/Account.action?signonForm=,167,0,0
+1728104050850,265,UserReg_T03_RegisterNow,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-1,,true,,6867,694,4,4,null,0,1,0
+1728104050851,265,/actions/Account.action-460,200,,UserReg 1-1,text,true,,6058,694,4,4,https://petstore.octoperf.com/actions/Account.action?newAccountForm=,264,0,0
+1728104051116,0,Debug Sampler,200,OK,UserReg 1-1,text,true,,809,0,4,4,null,0,0,0
+1728104052808,646,UserReg_T06_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-2,,true,,10650,2481,4,4,null,0,1,0
+1728104052809,441,/actions/Account.action-465,200,,UserReg 1-2,text,true,,5440,1803,4,4,https://petstore.octoperf.com/actions/Catalog.action,236,0,0
+1728104052809,236,/actions/Account.action-465-0,302,,UserReg 1-2,,true,,230,1037,4,4,https://petstore.octoperf.com/actions/Account.action,236,0,0
+1728104053046,204,/actions/Account.action-465-1,200,,UserReg 1-2,text,true,,5210,766,4,4,https://petstore.octoperf.com/actions/Catalog.action,204,0,0
+1728104053249,205,/actions/Catalog.action-466,200,,UserReg 1-2,text,true,,5210,678,4,4,https://petstore.octoperf.com/actions/Catalog.action,205,0,0
+1728104054128,545,UserReg_T07_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-4,,true,,10251,2007,4,4,null,0,2,0
+1728104054129,395,/actions/Account.action-468,200,,UserReg 1-4,text,true,,5278,1341,4,4,https://petstore.octoperf.com/actions/Catalog.action,246,0,0
+1728104054129,246,/actions/Account.action-468-0,302,,UserReg 1-4,,true,,230,675,4,4,https://petstore.octoperf.com/actions/Account.action?signoff=,246,0,0
+1728104054375,149,/actions/Account.action-468-1,200,,UserReg 1-4,text,true,,5048,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,149,0,0
+1728104054525,150,/actions/Catalog.action-469,200,,UserReg 1-4,text,true,,4973,666,4,4,https://petstore.octoperf.com/actions/Catalog.action,150,0,0
+1728104054835,666,UserReg_T04_EnterAndSaveAccInfo,200,"Number of samples in transaction : 3, number of failing samples : 0",UserReg 1-1,,true,,10985,3047,4,4,null,0,1,0
+1728104054835,468,/actions/Account.action-461,200,,UserReg 1-1,text,true,,5203,2365,4,4,https://petstore.octoperf.com/actions/Catalog.action,256,0,0
+1728104054835,256,/actions/Account.action-461-0,302,,UserReg 1-1,,true,,230,1595,4,4,https://petstore.octoperf.com/actions/Account.action,256,0,0
+1728104055092,211,/actions/Account.action-461-1,200,,UserReg 1-1,text,true,,4973,770,4,4,https://petstore.octoperf.com/actions/Catalog.action,211,0,0
+1728104055304,198,/actions/Catalog.action-462,200,,UserReg 1-1,text,true,,4973,682,4,4,https://petstore.octoperf.com/actions/Catalog.action,198,0,0
+1728104055502,0,Debug Sampler,200,OK,UserReg 1-1,text,true,,809,0,4,4,null,0,0,0
+1728104056710,227,UserReg_T05_SignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-3,,true,,4115,678,4,4,null,0,2,0
+1728104056711,227,/actions/Account.action-464,200,,UserReg 1-3,text,true,,4115,678,4,4,https://petstore.octoperf.com/actions/Account.action?signonForm=,227,0,0
+1728104058423,663,UserReg_T07_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-2,,true,,10251,2007,3,3,null,0,0,0
+1728104058423,460,/actions/Account.action-468,200,,UserReg 1-2,text,true,,5278,1341,3,3,https://petstore.octoperf.com/actions/Catalog.action,254,0,0
+1728104058423,254,/actions/Account.action-468-0,302,,UserReg 1-2,,true,,230,675,3,3,https://petstore.octoperf.com/actions/Account.action?signoff=,254,0,0
+1728104058677,206,/actions/Account.action-468-1,200,,UserReg 1-2,text,true,,5048,666,3,3,https://petstore.octoperf.com/actions/Catalog.action,206,0,0
+1728104058883,203,/actions/Catalog.action-469,200,,UserReg 1-2,text,true,,4973,666,3,3,https://petstore.octoperf.com/actions/Catalog.action,202,0,0
+1728104060411,577,UserReg_T06_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-3,,true,,10658,2481,3,3,null,0,1,0
+1728104060412,415,/actions/Account.action-465,200,,UserReg 1-3,text,true,,5444,1803,3,3,https://petstore.octoperf.com/actions/Catalog.action,210,0,0
+1728104060412,210,/actions/Account.action-465-0,302,,UserReg 1-3,,true,,230,1037,3,3,https://petstore.octoperf.com/actions/Account.action,210,0,0
+1728104060622,205,/actions/Account.action-465-1,200,,UserReg 1-3,text,true,,5214,766,3,3,https://petstore.octoperf.com/actions/Catalog.action,204,0,0
+1728104060827,162,/actions/Catalog.action-466,200,,UserReg 1-3,text,true,,5214,678,3,3,https://petstore.octoperf.com/actions/Catalog.action,162,0,0
+1728104065180,154,UserReg_T05_SignIn,200,"Number of samples in transaction : 1, number of failing samples : 0",UserReg 1-1,,true,,4117,678,2,2,null,0,0,0
+1728104065180,154,/actions/Account.action-464,200,,UserReg 1-1,text,true,,4117,678,2,2,https://petstore.octoperf.com/actions/Account.action?signonForm=,153,0,0
+1728104064870,553,UserReg_T07_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-3,,true,,10251,2007,2,2,null,0,2,0
+1728104064870,407,/actions/Account.action-468,200,,UserReg 1-3,text,true,,5278,1341,2,2,https://petstore.octoperf.com/actions/Catalog.action,258,0,0
+1728104064870,258,/actions/Account.action-468-0,302,,UserReg 1-3,,true,,230,675,2,2,https://petstore.octoperf.com/actions/Account.action?signoff=,258,0,0
+1728104065129,148,/actions/Account.action-468-1,200,,UserReg 1-3,text,true,,5048,666,2,2,https://petstore.octoperf.com/actions/Catalog.action,148,0,0
+1728104065278,146,/actions/Catalog.action-469,200,,UserReg 1-3,text,true,,4973,666,2,2,https://petstore.octoperf.com/actions/Catalog.action,146,0,0
+1728104071009,673,UserReg_T06_Login,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-1,,true,,10652,2481,1,1,null,0,0,0
+1728104071009,468,/actions/Account.action-465,200,,UserReg 1-1,text,true,,5441,1803,1,1,https://petstore.octoperf.com/actions/Catalog.action,263,0,0
+1728104071009,263,/actions/Account.action-465-0,302,,UserReg 1-1,,true,,230,1037,1,1,https://petstore.octoperf.com/actions/Account.action,263,0,0
+1728104071272,205,/actions/Account.action-465-1,200,,UserReg 1-1,text,true,,5211,766,1,1,https://petstore.octoperf.com/actions/Catalog.action,205,0,0
+1728104071477,205,/actions/Catalog.action-466,200,,UserReg 1-1,text,true,,5211,678,1,1,https://petstore.octoperf.com/actions/Catalog.action,204,0,0
+1728104075149,464,UserReg_T07_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",UserReg 1-1,,true,,10251,2007,1,1,null,0,3,0
+1728104075150,320,/actions/Account.action-468,200,,UserReg 1-1,text,true,,5278,1341,1,1,https://petstore.octoperf.com/actions/Catalog.action,146,0,0
+1728104075150,146,/actions/Account.action-468-0,302,,UserReg 1-1,,true,,230,675,1,1,https://petstore.octoperf.com/actions/Account.action?signoff=,146,0,0
+1728104075296,174,/actions/Account.action-468-1,200,,UserReg 1-1,text,true,,5048,666,1,1,https://petstore.octoperf.com/actions/Catalog.action,174,0,0
+1728104075471,144,/actions/Catalog.action-469,200,,UserReg 1-1,text,true,,4973,666,1,1,https://petstore.octoperf.com/actions/Catalog.action,144,0,0
